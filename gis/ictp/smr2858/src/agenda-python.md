@@ -8,4 +8,4 @@
 * [III. Fetching Safecast data with Python](../notebooks/3-fetching-safecast-data.ipynb)
 * [IV. GIS & Python - an exampe](../notebooks/4-python-gis-example.ipynb)
 * [V. Preprocessing bGeigie log file](../notebooks/5-preprocessing-bgeigie-log.ipynb)
-* [VI. bGeigie log file quick map](../notebooks/6-safecast_log_quick_dirty_map)
+* [VI. bGeigie log file quick map](../notebooks/6-safecast-log-quick-dirty_map)
