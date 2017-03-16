@@ -15,5 +15,5 @@
 * DataCamp (Python & R) [https://www.datacamp.com/home](https://www.datacamp.com/home)
 * Andrew Ng's machine learning course at Coursera [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 
-## GEODATASCIENCE
+### GEODATASCIENCE
 * A course taught by Dr. Dani Arribas-Bel in the Autumn of 2016 at the University of Liverpool. [http://darribas.org/gds16/](http://darribas.org/gds16/)
