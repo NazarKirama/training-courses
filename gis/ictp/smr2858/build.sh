@@ -23,8 +23,9 @@ echo "Data for Jupyter notebooks copied successfully!"
 cp ../master-course/notebooks/1-python-foundations.ipynb notebooks
 cp ../master-course/notebooks/2-python-eda-with-pandas.ipynb notebooks
 cp ../master-course/notebooks/3-fetching-safecast-data.ipynb notebooks
+cp ../master-course/notebooks/4-python-gis-example.ipynb notebooks
 cp ../master-course/notebooks/5-preprocessing-bgeigie-log.ipynb notebooks
-# cp ../master-course/notebooks/4-gis-and-mapping.ipynb notebooks
+cp ../master-course/notebooks/6-safecast-log-quick-dirty-map.ipynb notebooks
 echo "Jupyter notebooks copied successfully!"
 
 # copy img
