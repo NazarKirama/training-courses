@@ -18,6 +18,7 @@ echo "Source files (.md) files copied successfully!"
 
 # copy python courses
 cp -R ../master-course/notebooks/data notebooks
+cp -R ../master-course/notebooks/solutions notebooks
 echo "Data for Jupyter notebooks copied successfully!"
 cp ../master-course/notebooks/1-python-foundations.ipynb notebooks
 cp ../master-course/notebooks/2-python-eda-with-pandas.ipynb notebooks
