@@ -5,6 +5,7 @@
 
 # copy files from master course
 cp ../master-course/src/resources.md ./src/
+cp ../master-course/src/python-resources.md ./src/
 cp ../master-course/src/qgis-setup.md ./src/
 cp ../master-course/src/handling-gis-layers.md ./src/
 cp ../master-course/src/handling-crs.md ./src/
