@@ -5,7 +5,6 @@
 # local files
 node_modules
 bower_components
-python
 
 # ide files
 *.iml
