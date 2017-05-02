@@ -1,0 +1,42 @@
+* what’s a programming language in essence ?
+
+** show how to compile in Assembler
+Essential “pieces” necessary for defining and learning any programming language:
+- syntax: how do you write the various parts of the language
+			- semantics: what do the various languages features mean? For example, how are expressions evaluated?
+			- 
+
+resources:
+	
+
+Notion of type
+	static / dynamic typing
+
+Story of Python
+	what’s the difference
+	xkcd picture
+	links
+
+
+built-in types
+	int, float, complex, …
+	sequences: list, tuple, set, str
+	methods
+
+control structures
+	if 
+	for loops	
+
+functions
+	notions of scope
+	arguments passing / object by reference
+
+module/packages
+
+class/object
+	new style
+	type, metaclass, 
+	inheritance
+
+iterators
+generators
