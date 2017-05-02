@@ -5,9 +5,9 @@
 # local files
 node_modules
 bower_components
-ipynb-inria
-python-for-iot
-python-fundamentals
+ipynb-inria/
+python-for-iot/
+python-fundamentals/
 
 # ide files
 *.iml
