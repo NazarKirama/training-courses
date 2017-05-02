@@ -8,6 +8,7 @@ bower_components
 ipynb-inria/
 python-for-iot/
 python-fundamentals/
+.ipynb_checkpoints/
 
 # ide files
 *.iml
